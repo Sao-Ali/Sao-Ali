@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate frontend developer from Irvine CA</h3>
 
-- 🔭 I’m currently working on [Anime Vault](https://github.com/Sao-Ali/MangaVault)
+- 🔭 I’m currently working on HarminiSearch
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [to be continue...](to be continue...)
 
