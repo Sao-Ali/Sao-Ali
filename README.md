@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate frontend developer from Irvine CA</h3>
 
-- 🔭 I’m currently working on HarminiSearch
+- 🔭 I’m currently working at panasonic
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [to be continue...](to be continue...)
+- 👨‍💻 All of my projects are available at [to be continue...]
 
 - 💬 Ask me about **Muay Thai and Matcha**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1aovVQdIfCw8scRUUoCwLGzC-gV-L3elmg1bbCPwwmho/edit?usp=sharing](https://docs.google.com/document/d/1aovVQdIfCw8scRUUoCwLGzC-gV-L3elmg1bbCPwwmho/edit?usp=sharing)
 
-- ⚡ Fun fact **I love my gf and matcha**
+- ⚡ Fun fact **I love my gf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
