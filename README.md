@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [to be continue...]
+- 👨‍💻 All of my projects are available at [https://portfolio-six-omega-68.vercel.app/]
 
 - 💬 Ask me about **Muay Thai and Matcha**
 
